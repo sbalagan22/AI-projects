@@ -2,7 +2,7 @@
 
 ### **AI Projects Repository README.md**
 
-```markdown
+
 # AI Projects Repository
 
 This repository contains projects focused on artificial intelligence and machine learning. These projects showcase applications in natural language processing (NLP), computer vision, and predictive analytics, leveraging cutting-edge AI frameworks and tools.
