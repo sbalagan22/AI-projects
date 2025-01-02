@@ -1,7 +1,3 @@
----
-
-### **AI Projects Repository README.md**
-
 
 # AI Projects Repository
 
